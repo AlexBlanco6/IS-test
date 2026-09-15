@@ -7,3 +7,6 @@ csdfdsf
 dsfsddsfdfdsfddsfsd
 
 $$x = 2/3$$
+
+$$x = y^2 - \sqrt{z^2 + 2}$$
+
